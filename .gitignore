@@ -1,0 +1,30 @@
+# Third-party directories.
+node_modules
+bower_components
+
+# Cache & Logs.
+.sass-cache
+.php_cs.cache
+npm-debug.log
+.tags*
+
+# Composer.
+composer.phar
+
+# Compiled python files.
+*.pyc
+
+# Folder view configuration files.
+.DS_Store
+Desktop.ini
+
+# Thumbnail cache files.
+._*
+Thumbs.db
+
+# Files that might appear on external disks.
+.Spotlight-V100
+.Trashes
+
+# Editor preferences.
+.idea
